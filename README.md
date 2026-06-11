@@ -1,3 +1,4 @@
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/01666f3e-5b11-4782-b8ba-c853559c7f15" />
 
 # Olá, eu sou Joaquim 👋
 
